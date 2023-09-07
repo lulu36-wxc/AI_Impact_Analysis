@@ -1,8 +1,8 @@
 # AI_Impact_Analysis
 
-In March of 2023, Goldman Sachs published a report to an external site., indicating that ~25% of the tasks in US and Europe can be automated using AI.  However, in this visualization Links to an external site., Not all industries will be affected equally.  According to the report, certain jobs, like office tasks, legal, architecture and social sciences have a potential for 30%+ automation, while positions like construction, installation, and building maintenance are going to be largely unaffected.
+In March of 2023, Goldman Sachs published a report, indicating that ~25% of the tasks in US and Europe can be automated using AI.  However, in this visualization, not all industries will be affected equally.  According to the report, certain jobs, like office tasks, legal, architecture, and social sciences have a potential for 30%+ automation, while positions like construction, installation, and building maintenance are going to be largely unaffected.
 
-There is also supporting evidence in the Facebook Research paper Links to an external site., which highlights Moravec’s paradox, the thesis that the hardest problems in AI involve sensorimotor skills, not abstract thought or reasoning, which coincide with Goldman Sachs predictions.
+There is also supporting evidence in the Facebook Research paper, which highlights Moravec’s paradox, the thesis that the hardest problems in AI involve sensorimotor skills, not abstract thought or reasoning, which coincide with Goldman Sachs predictions.
 
 While both of these papers are very impressive, they are also heavily influenced by the recent advances in Large Language Models (LLMs).  For this final project, the dataset is a collection of ~200K news articles (about 900 MB) articles on our favorite topics: Data Science, Machine Learning and Artificial Intelligence, and I will identify what industries and job lines are going to be most impacted by the AI over the next several years, based on the information I can disseminate from this text corpus.
 
